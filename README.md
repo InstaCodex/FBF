@@ -19,7 +19,7 @@ $ cd FBF
 $ python run.py
 ```
 
-<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/giphy%20(4).webp" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/200w%20(1).webp" alt="Profile Image" width="100%">
 
 ## Saran Gw
 - Notice Me: ```Hasil Crack Followers Banyak Atau Sedikit Tergantung Target Yang Dipilih```
