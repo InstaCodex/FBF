@@ -14,18 +14,18 @@ $ pip install requests
 $ pip install stdiomask
 $ pip install bs4
 $ pip install rich
-$ git clone https://github.com/InstaCodex/IGF
-$ cd BruteIG
+$ git clone https://github.com/InstaCodex/FBF
+$ cd FBF
 $ python run.py
 ```
 
-<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/giphy%20(4).webp" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/200w%20(1).webp" alt="Profile Image" width="100%">
 
 ## Saran Gw
-- Notice Me: ```Hasil Crack Followers Banyak Atau Sedikit Tergantung Target Yang Dipilih```
+- Notice Me: ```Hasil Crack Akun Banyak Atau Sedikit Tergantung Target Yang Dipilih```
 
 #### Update tools
 ``` bash
-$ cd IGF
+$ cd FBF
 $ git pull
 $ python run.py
